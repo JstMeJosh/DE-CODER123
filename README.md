@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @DE-CODER123
+# 👋 Hello, I'm @JstMeJosh
 
 ## 👨‍💻 About Me
 I'm a passionate Junior MERN Stack Developer with a growing love for all things programming. Whether it's building sleek front-end interfaces or crafting robust back-end systems, I'm always eager to learn and level up.
